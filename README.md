@@ -128,15 +128,22 @@ Testing included:
 
 ### Schematic
 
-![Schematic](Pictures/Schematic.png)
+<p align="center">
+  <img src="Pictures/Schematic.png)" width="700">
+</p>
+
 
 ### Layout
 
-![Layout](Pictures/Layout.png)
+<p align="center">
+  <img src="Pictures/Layout.png)" width="700">
+</p>
 
 ### Assembled Board
 
-![Assembled Board](Pictures/Tools_board.png)
+<p align="center">
+  <img src="Pictures/Tools_board.png)" width="700">
+</p>
 
 ---
 
