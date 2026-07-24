@@ -129,20 +129,20 @@ Testing included:
 ### Schematic
 
 <p align="center">
-  <img src="Pictures/Schematic.png)" width="700">
+  <img src="Pictures/Schematic.png" width="700">
 </p>
 
 
 ### Layout
 
 <p align="center">
-  <img src="Pictures/Layout.png)" width="700">
+  <img src="Pictures/Layout.png" width="700">
 </p>
 
 ### Assembled Board
 
 <p align="center">
-  <img src="Pictures/Tools_board.png)" width="700">
+  <img src="Pictures/Tools_board.png" width="700">
 </p>
 
 ---
